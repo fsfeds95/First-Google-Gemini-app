@@ -1,0 +1,5 @@
+{
+  "name": "First application",
+  "description": "A simple React web application to generate images using the Gemini Imagen API, based on user prompts.",
+  "requestFramePermissions": []
+}
